@@ -1,0 +1,25 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Modulo Node JS de Introduccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivann011/intro-node-js.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs",
+    "node",
+    "js"
+  ],
+  "author": "Ivann Villegas <ivannronaldo7@gmail.com> (https://ivann011.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivann011/intro-node-js/issues"
+  },
+  "homepage": "https://github.com/ivann011/intro-node-js#readme"
+}
